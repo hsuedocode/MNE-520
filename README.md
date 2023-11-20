@@ -1,6 +1,7 @@
 ## Setup
 
  - Python ≥ 3.6
+ - **MAC OS Users** may need to install tkinter specific binaries from official installer: https://www.python.org/download/mac/tcltk/
  - Install dependencies in virtual env 
    - Add virtual env - `python3 -m venv venv`
    - Activate venv `source venv/bin/activate`
@@ -9,4 +10,4 @@
 
 ## Usage
  1. Activate venv `source venv/bin/activate` 
- 2. Run app `python3 MNE_520_Final_Project_Nicholas_Yeh_02.py`
+ 2. Run app `python3 app.py`
